@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MyGames.com</title>
+  </head>
+  <body>
+    <h1>MYGames!</h1>
+    <p>Hier finden Sie eine Auswahl an Browser-Spielen, die Sie direkt auf dieser Website spielen können.</p>
+    <h2>doodle jump:</h2>
+    <iframe src="https://doodlejump.io/" width="800" height="600" allowfullscreen></iframe>
+    <p>Doodle jump wie viel schaffst du?.</p>
+    <h2>Flappybird:</h2>
+    <iframe src="https://flappybird.ee/old" width="800" height="600" allowfullscreen></iframe>
+    <p>Flappybird schaffst du es?</p>
